@@ -1,0 +1,610 @@
+11082 Aetna, Inc. AK $- $- $70,609.53
+38344 Premera Blue Cross AK $0.00 $- $1,615,253.34
+73836 Moda Health Plan, Inc. AK $- $- ($744,336.01)
+80049 UnitedHealth Group, Inc. AK $- $- ($941,526.90)
+46944 Blue Cross Blue Shield of Alabama AL ($172,651.78) $0.00 $1,662,986.37
+68259 UnitedHealth Group, Inc. AL $172,651.77 $- ($1,698,227.57)
+69461 UnitedHealth Group, Inc. AL $- $- $737,981.76
+93018 Viva Health, Inc. AL $- $- ($702,740.49)
+13262 Arkansas Blue Cross and Blue Shield AR $- $- ($251,058.68)
+22732 UnitedHealth Group, Inc. AR $- $- ($815,079.73)
+37903 QualChoice Arkansas AR ($5,733,419.10) $- ($69,936.67)
+60079 Aetna, Inc. AR ($2,159.13) $- $-
+62141 Centene Corporation AR ($15,559,654.63) $- $-
+65817 UnitedHealth Group, Inc. AR $40,617.57 $- ($102,649.81)
+70525 QualChoice Arkansas AR $1,885,571.16 ($24,504.01) $86,895.32
+75293 Arkansas Blue Cross and Blue Shield AR $19,369,044.15 $24,504.00 $1,570,738.41
+81392 UnitedHealth Group, Inc. AR $- $- ($260,744.68)
+89365 Federated Mutual AR $- $- ($158,164.22)
+23307 Humana, Inc. AZ $- $- ($5,736,667.03)
+40702 UnitedHealth Group, Inc. AZ $- $- ($5,694,852.10)
+51485 Centene Corporation AZ $- $- ($1,365,785.00)
+53901 Blue Cross Blue Shield of Arizona, Inc. AZ ($36,394,767.43) $0.00 ($3,329,219.82)
+66105 Humana, Inc. AZ $5,133.15 $- ($302,647.69)
+70904 WMI Mutual Insurance Company AZ $- $- ($36,649.03)
+78611 Aetna, Inc. AZ $2,317,108.78 $- ($33,786.35)
+82011 UnitedHealth Group, Inc. AZ $- $- $14,363,165.23
+84251 Aetna, Inc. AZ $- $- $2,467,840.53
+86830 Cigna AZ $13,317,786.40 $- $52,403.83
+91450 Centene Corporation AZ $24,347,486.57 $- ($558,508.96)
+97667 Cigna AZ ($3,909,461.51) $- ($66,654.76)
+98971 UnitedHealth Group, Inc. AZ $316,714.04 $- $241,361.02
+10544 Oscar Health CA ($4,276,703.19) ($119,250.41) $-
+18126 Molina Healthcare CA ($227,378,843.71) ($128,550.50) $-
+20523 Aetna, Inc. CA $- $- $2,437,860.40
+27330 Kaiser Permanente CA $- $- ($523,926.40)
+27603 Anthem, Inc. CA $18,476,551.48 ($1,694,816.50) $198,601,589.47
+40025 Cigna CA $6,181,173.26 $- $-
+40513 Kaiser Permanente CA ($253,147,852.38) ($1,662,170.69) ($311,731,053.55)
+40733 Aetna, Inc. CA $- $- $21,185,692.35
+47579 Chinese Community Health Plan CA ($25,477,134.14) ($4,586.12) ($1,737,995.17)
+49116 UnitedHealth Group, Inc. CA $- $- ($40,892,493.33)
+56887 Ventura County Health Care Plan CA $- $- $558,472.42
+64210 Sutter Health Plan CA ($7,713.66) $- ($19,257,662.02)
+64618 National Health Insurance Company CA $- $- $19,746.83
+67138 Centene Corporation CA ($56,491,988.14) ($90,404.10) ($9,976,610.01)
+70285 Blue Shield of California CA $556,165,717.71 $4,059,990.65 $136,139,531.69
+84014 County of Santa Clara CA ($10,854,815.92) ($150,253.26) $-
+92499 Sharp Health Plan CA ($3,299,537.36) ($456,689.85) ($11,404,274.30)
+92815 Local Initiative Health Authority for Los Angeles County CA ($33,305,153.65) ($41,941.79) $-
+93689 Western Health Advantage CA ($7,452,235.61) ($79,493.56) $1,519,812.34
+95677 UnitedHealth Group, Inc. CA $- $- $11,101,755.16
+99110 Centene Corporation CA $40,868,535.39 $368,166.09 $23,959,554.19
+21032 Kaiser Permanente CO ($64,337,584.65) ($529,642.62) ($18,516,295.44)
+28700 US Health Group CO $704,700.87 $- $-
+31070 Bright Health Insurance Company CO ($6,192,240.81) ($1,444,024.58) $-
+35944 Kaiser Permanente CO $- $- ($15,867.55)
+39041 Aetna, Inc. CO $- $- $651,309.42
+41341 UnitedHealth Group, Inc. CO $513,309.23 $664,572.71 $-
+49375 Cigna CO $22,551,799.25 $- $-
+59036 UnitedHealth Group, Inc. CO ($409.55) $- ($10,897,579.97)
+63312 Colorado Choice Health Plans CO $3,997,526.46 $295,544.01 ($89,723.86)
+66699 Denver Health Medical Plan, Inc. CO $7,486,694.78 $- $-
+67879 UnitedHealth Group, Inc. CO $- $- $27,813,071.36
+74320 Humana, Inc. CO $10,898.81 $- $1,299,220.37
+76680 Anthem, Inc. CO $30,992,082.99 ($1,516,774.26) ($9,609,395.96)
+79509 Humana, Inc. CO $- $- $627,794.57
+80208 Rocky Mountain Health Care Options CO $- $- $440,238.50
+87269 Anthem, Inc. CO $841,186.64 $2,530,324.80 $10,886,278.11
+97879 Rocky Mountain Health Care Options CO $3,432,035.89 $- ($2,589,049.52)
+29462 UnitedHealth Group, Inc. CT $- $- $4,912,295.94
+39159 Aetna, Inc. CT $956,418.14 $- $5,859,129.11
+40591 UnitedHealth Group, Inc. CT ($8,237.12) ($11,624.14) $-
+49650 UnitedHealth Group, Inc. CT $- $- $423,792.00
+71179 UnitedHealth Group, Inc. CT $- $- ($144,694.33)
+75091 ConnectiCare, Inc. CT ($203,668.61) $- $14,877.22
+76962 ConnectiCare, Inc. CT ($11,984,032.56) ($65,803.71) $-
+86545 Anthem, Inc. CT $14,076,814.79 $77,427.82 $3,667,865.78
+87354 Cigna CT $1,281,052.22 $- $-
+89130 HPHC Insurance Company, Inc CT $- $- ($8,968,585.94)
+94815 ConnectiCare, Inc. CT ($4,118,346.92) $- ($5,570,057.74)
+95882 HPHC Insurance Company, Inc CT $- $- ($194,622.18)
+21066 UnitedHealth Group, Inc. DC $- $- ($472,015.89)
+41842 UnitedHealth Group, Inc. DC $- $- $1,562,031.69
+73987 Aetna, Inc. DC $- $- $154,887.96
+75753 UnitedHealth Group, Inc. DC $- $- ($627,818.41)
+77422 Aetna, Inc. DC $- $- ($533,232.20)
+78079 CareFirst DC $6,500,181.23 $- $10,874,396.62
+86052 CareFirst DC ($3,723,041.82) $2,142.18 ($9,350,612.52)
+94506 Kaiser Permanente DC ($2,777,139.42) ($2,142.18) ($1,607,637.27)
+29497 Aetna, Inc. DE ($595,457.11) $- ($1,014,864.19)
+61021 UnitedHealth Group, Inc. DE $- $- ($444,816.07)
+67190 Aetna, Inc. DE ($2,660,555.55) $- $923,437.73
+76168 Highmark DE $3,336,393.06 $0.00 $696,498.63
+89587 UnitedHealth Group, Inc. DE ($80,380.41) $- $-
+97569 UnitedHealth Group, Inc. DE $- $- ($160,256.14)
+16842 Blue Cross and Blue Shield of Florida FL $666,342,217.61 $- $19,195,173.11
+18628 Aetna, Inc. FL $504,174.05 $3,291.40 $11,932,273.20
+19898 AvMed, Inc. FL ($12,556,467.84) $- $801,626.31
+21663 Centene Corporation FL ($298,557,758.47) $- $-
+23841 Aetna, Inc. FL $4,120,333.01 $- $2,358,859.29
+30252 Blue Cross and Blue Shield of Florida FL ($49,062,378.52) $- ($18,541,996.03)
+35783 Humana, Inc. FL $25,090,635.59 $281,746.71 ($11,862,572.41)
+36194 Health First, Inc. FL $9,690,044.27 ($187,145.21) ($1,751,296.18)
+40442 US Health Group FL $164,128.35 $- $-
+42204 UnitedHealth Group, Inc. FL $- $- ($114,840.94)
+43839 UnitedHealth Group, Inc. FL $- $- $5,273,063.15
+48121 Cigna FL $5,272,866.93 $- $-
+54172 Molina Healthcare FL ($344,043,435.16) $- $-
+56503 Florida Health Care Plan, Inc. FL ($5,552,422.56) ($97,892.89) ($1,611,145.68)
+57451 Aetna, Inc. FL ($2,054,259.40) $- $-
+66966 Capital Health Plan FL $- $- ($237,935.62)
+68398 UnitedHealth Group, Inc. FL $642,322.46 $- ($1,823,207.54)
+77150 Health First, Inc. FL $- $- $774,154.89
+80779 UnitedHealth Group, Inc. FL $- $- ($4,192,749.99)
+99308 Humana, Inc. FL $- $- ($199,405.64)
+12442 Nippon Life Benefits GA $- $- $224,509.54
+13535 UnitedHealth Group, Inc. GA $- $- $2,042,988.05
+30552 UnitedHealth Group, Inc. GA $- $- ($4,149,929.77)
+37001 Humana, Inc. GA $- $- $542,258.43
+38835 Federated Mutual GA $- $- ($111,539.18)
+43802 UnitedHealth Group, Inc. GA $113,966.83 $- $991,363.39
+49046 Anthem, Inc. GA $47,890,056.76 ($831,656.66) $8,334,877.82
+50491 Cigna GA ($1,249,083.97) $- $-
+63411 Anthem, Inc. GA $- $- $707,351.80
+70893 Centene Corporation GA ($60,110,112.97) $- $-
+82302 Kaiser Permanente GA $- $- $12,306.97
+82824 Aetna, Inc. GA ($2,889,649.91) $- $426,428.16
+83761 Alliant Health Plans GA $27,505,745.34 $- $710,630.46
+83978 Aetna, Inc. GA $3,737,745.83 $- $10,449,185.82
+89942 Kaiser Permanente GA ($21,666,714.42) $221,373.55 ($3,750,814.09)
+93332 Humana, Inc. GA $5,988,178.81 $610,283.11 ($16,404,683.09)
+95852 UnitedHealth Group, Inc. GA $679,867.71 $- ($24,934.27)
+18350 Hawaii Medical Service Association HI $25,998,454.64 $0.00 $14,313,880.24
+54179 UnitedHealth Group, Inc. HI $- $- $2,583.24
+56682 Hawaii Medical Assurance Association HI $- $- ($111,183.83)
+60612 Kaiser Permanente HI ($25,998,454.63) $- ($11,879,869.65)
+95366 University Health Alliance [UHA] HI $- $- ($2,325,409.97)
+18973 Aetna, Inc. IA ($11,142,633.62) ($154,460.80) ($448,020.13)
+25896 Wellmark, Inc. IA $799,924.59 $- ($874,643.55)
+27651 Quartz Health Solutions IA ($661,826.98) ($3,310.46) ($106,991.78)
+41397 Federated Mutual IA $- $- ($642,170.51)
+50735 Medical Associates Health Plans IA $- $- $237,745.57
+51474 Pekin Life Insurance Company IA $- $- ($73,617.11)
+56610 UnitedHealth Group, Inc. IA $- $- $414,993.95
+72160 Wellmark, Inc. IA $10,322,659.48 $- $3,386,559.75
+74406 Wellmark, Inc. IA ($431,036.41) $- ($400,870.42)
+74980 Avera Health Plans, Inc. IA $- $- $111,050.48
+77638 Health Alliance Medical Plans, Inc. IA $- $- ($34,436.34)
+78252 Aetna, Inc. IA $- $- ($106,451.56)
+85930 Sanford Health Plan IA $- $- ($52,263.31)
+87928 Wellmark, Inc. IA ($406,804.09) $- ($237,880.07)
+88678 UnitedHealth Group, Inc. IA $- $- ($1,173,004.93)
+93078 Medica Insurance Company IA $1,519,717.15 $157,771.27 $-
+26002 SelectHealth ID $7,551,524.90 $128,202.40 ($238,815.95)
+38128 Montana Health Cooperative ID ($9,609,851.76) ($220,730.62) ($120,655.28)
+43541 National Health Insurance Company ID $- $- ($276,891.35)
+44648 Cambia Health Solutions ID $729,602.33 $- $2,293,255.45
+45059 Aetna, Inc. ID $- $- ($10,101.50)
+50118 UnitedHealth Group, Inc. ID $- $- $1,625.12
+59765 Cambia Health Solutions ID ($4,297,893.26) $- $-
+60597 PacificSource Health Plans ID $3,063,266.71 ($40,488.63) ($1,864,614.35)
+61175 Aetna, Inc. ID $- $- $135,535.65
+61589 Blue Cross of Idaho Health Service, Inc. ID $2,563,351.03 $133,016.84 $80,662.21
+18389 Pekin Life Insurance Company IL $- $- ($137,667.78)
+20129 Health Alliance Medical Plans, Inc. IL ($11,663,474.42) ($78,603.46) ($1,292,207.35)
+24301 Medical Associates Health Plans IL $- $- $56,930.97
+27833 Centene Corporation IL ($77,760,248.04) $- $-
+34446 UnitedHealth Group, Inc. IL $- $- $711,640.34
+35670 Aetna, Inc. IL $806,358.56 $- ($168,289.40)
+36096 Health Care Service Corporation IL $145,478,236.18 $65,358.61 $6,201,452.87
+42529 UnitedHealth Group, Inc. IL $- $- ($2,457,421.07)
+53882 Cigna IL ($53,357,618.05) $- $-
+54322 MercyCare Insurance Company IL $- $- ($110,789.80)
+58239 UnitedHealth Group, Inc. IL $- $- ($1,315,014.25)
+58288 Humana, Inc. IL ($2,473,593.04) $13,244.83 ($1,685,150.33)
+66143 Federated Mutual IL $- $- ($2,017,781.03)
+68303 Humana, Inc. IL $- $- $7,796.46
+72547 Aetna, Inc. IL $15,187.22 $- $2,648,862.56 
+78463 UnitedHealth Group, Inc. IL ($461,475.84) $- ($151,696.14)
+82506 US Health Group IL $254,252.40 $- $-
+92476 UnitedHealth Group, Inc. IL $- $- $78,898.64
+96601 Aetna, Inc. IL $868,303.50 $- $38,569.24
+99129 Aetna, Inc. IL ($1,705,928.50) $- ($408,133.93)
+11104 Federated Mutual IN $- $- $851,008.13
+17575 Anthem, Inc. IN $46,155,733.81 $0.00 $7,413,866.40
+32378 Aetna, Inc. IN $- $- ($247,035.83)
+33380 Indiana University Health IN ($8,594,425.99) $- ($649,334.41)
+36373 UnitedHealth Group, Inc. IN $125,632.53 $- $249,036.85
+43442 Humana, Inc. IN $- $- ($161,650.57)
+50816 Physicians Health Plan of Northern Indiana, Inc. IN $- $- ($1,565,817.43)
+54192 CareSource IN ($15,998,467.00) $- $-
+62033 MDwise IN $5,435,307.07 $- $-
+72850 UnitedHealth Group, Inc. IN $- $- ($6,119,832.00)
+76179 Centene Corporation IN ($27,123,780.39) $- $-
+79828 Pekin Life Insurance Company IN $- $- ($61,075.00)
+96992 Aetna, Inc. IN $- $- ($15,458.23)
+99791 Humana, Inc. IN $- $- $306,292.27
+18558 Blue Cross and Blue Shield of Kansas, Inc. KS $8,529,904.66 $- ($1,394,664.85)
+19968 Humana, Inc. KS $- $- $1,327,962.27
+27811 Blue Cross and Blue Shield of Kansas, Inc. KS ($19,756,554.76) $- ($1,970,523.23)
+39520 Medica Insurance Company KS $8,197,651.06 $217,292.28 $-
+49857 Humana, Inc. KS $- $- $367,312.94
+57850 Aetna, Inc. KS $- $- ($78,377.66)
+61430 Aetna, Inc. KS ($167,200.33) $- $-
+65598 Aetna, Inc. KS $143,993.50 $- $-
+84600 Aetna, Inc. KS ($79,236.89) $- $198,720.74
+94248 Blue Cross and Blue Shield of Kansas City KS $3,131,442.74 ($217,292.29) ($225,128.83)
+94968 UnitedHealth Group, Inc. KS $- $- $2,137,648.09
+96352 Federated Mutual KS $- $- ($362,949.52)
+15411 Humana, Inc. KY $444,123.60 ($101,817.11) ($754,945.32)
+23671 UnitedHealth Group, Inc. KY $29,230.72 $- ($2,775,937.89)
+28773 UnitedHealth Group, Inc. KY $- $- $55,109.62
+34822 Aetna, Inc. KY ($182,910.40) $- ($10,396.35)
+36239 Anthem, Inc. KY $10,657,590.47 ($54,832.40) $5,247,388.21
+40586 Baptist Health Plan KY $- $- ($1,352,232.72)
+45636 CareSource KY ($11,176,017.97) $156,649.50 $-
+45920 UnitedHealth Group, Inc. KY $- $- ($408,985.74)
+47949 UnitedHealth Group, Inc. KY $227,983.57 $- $-
+14030 Aetna, Inc. LA $- $- $172,687.57
+19636 Blue Cross Blue Shield of Louisiana LA ($53,282,415.08) $- ($6,522,359.29)
+22381 Aetna, Inc. LA $- $- ($4,874.45)
+38499 UnitedHealth Group, Inc. LA $354,326.24 $- $324,017.56
+44965 Humana, Inc. LA ($34,530,601.67) $0.00 ($4,426,481.25)
+53946 UnitedHealth Group, Inc. LA $- $- ($827,048.55)
+67243 Vantage Health Plan, Inc. LA ($1,189,558.38) $- ($38,945.89)
+69842 UnitedHealth Group, Inc. LA $- $- ($837,243.34)
+81941 Aetna, Inc. LA ($402,292.63) $- ($27,929.35)
+97176 Blue Cross Blue Shield of Louisiana LA $89,050,541.52 $- $12,188,176.95
+23620 UnitedHealth Group, Inc. MD $- $- ($1,665,593.79)
+28137 CareFirst MD $3,194,767.04 ($166,411.99) ($12,502,768.73)
+32812 Cigna MD $1,904,523.01 $- $-
+31112 UnitedHealth Group, Inc. MD $14,452.71 $- ($3,589,322.07)
+45532 CareFirst MD $40,089,507.39 $- $13,744,600.35
+65635 UnitedHealth Group, Inc. MD $- $- ($491,443.80)
+66516 Aetna, Inc. MD $- $- $2,376,609.74
+70767 Aetna, Inc. MD $- $- $1,210,461.02
+72375 UnitedHealth Group, Inc. MD $- $- ($6,573,384.29)
+72564 Evergreen Health Cooperative, Inc. MD $- $- ($12,553,358.10)
+90296 Kaiser Permanente MD ($76,072,410.03) $166,411.98 $297,840.38
+94084 CareFirst MD $30,869,159.91 $- $19,746,359.32
+11593 HPHC Insurance Company, Inc ME $- $- $1,241,361.85
+33653 Maine Community Health Options ME $12,970,061.86 $77,398.92 ($1,702,853.02)
+48396 Anthem, Inc. ME ($7,710,588.40) ($77,398.92) ($927,203.64)
+53357 Aetna, Inc. ME $- $- $3,984,269.79
+73250 Aetna, Inc. ME ($861,856.86) $- $395,130.30
+90214 UnitedHealth Group, Inc. ME $- $- $167,711.97
+96667 HPHC Insurance Company, Inc ME ($4,397,616.66) $- ($3,158,417.23)
+15560 Blue Cross Blue Shield of Michigan MI $115,031,970.70 $2,097,903.42 $16,280,762.99
+20662 Physicians Health Plan MI $- $- $204,816.58
+29241 Priority Health MI $- $- $1,803,921.66
+29698 Priority Health MI ($51,264,049.56) $- ($6,012,985.38)
+37651 Health Alliance Plan [HAP] MI ($10,217,305.00) ($813,903.65) $1,936,909.52
+40047 Molina Healthcare MI ($25,642,430.62) $- $-
+46275 Humana, Inc. MI $470,270.48 ($369,552.25) $-
+52670 UnitedHealth Group, Inc. MI $- $- ($47,492.44)
+58594 Meridian Health Plan of Michigan, Inc. MI ($7,246,589.76) ($14,891.83) $-
+60829 Physicians Health Plan MI ($4,138,643.29) ($4,920.24) ($383,256.82)
+62294 Humana, Inc. MI $- $- ($234,087.67)
+63631 UnitedHealth Group, Inc. MI $- $- $635,881.76
+67183 Total Health Care USA, Inc. MI $1,451,383.50 $- $797,979.46
+67577 Health Alliance Plan [HAP] MI ($1,342,980.92) ($22,352.26) ($290,881.80)
+74917 McLaren Health Care MI $1,632,443.19 ($8,459.60) ($2,215,716.04)
+81068 Aetna, Inc. MI $135,739.67 $- $-
+82649 Federated Mutual MI $- $- ($4,226,509.16)
+95233 Paramount Insurance Company MI $- $- $514,718.89
+98185 Blue Cross Blue Shield of Michigan MI ($18,869,808.35) ($863,823.58) ($8,764,061.52)
+31616 Medica Insurance Company MN $1,026,285.49 $- $4,249,844.27
+34102 HealthPartners Insurance Company MN ($11,779,708.00) ($25,623.49) $-
+49316 Blue Cross Blue Shield of Minnesota MN $576,069.02 $7,742.76 $27,191,741.94
+52346 Sanford Health Plan MN $- $- ($35,741.68)
+57129 Blue Cross Blue Shield of Minnesota MN $18,188,214.99 $- ($1,736,470.54)
+60769 Federated Mutual MN $- $- ($4,695,175.01)
+65847 Medica Insurance Company MN $4,736,082.02 $279,392.44 $-
+70373 Quartz Health Solutions MN $- $- ($140,404.30)
+79888 HealthPartners Insurance Company MN $- $- ($20,639,939.50)
+85654 HealthPartners Insurance Company MN ($32,581,892.54) ($539,198.50) ($243,046.42)
+85736 UCare Minnesota MN $16,940,395.77 $244,878.27 $-
+88102 PreferredOne Insurance Company MN $2,894,553.23 $32,808.51 ($4,018,305.68)
+97624 PreferredOne Insurance Company MN $- $- $67,496.94
+30613 Humana, Inc. MO ($953,788.23) $15,772.32 ($2,632,385.19)
+32753 Anthem, Inc. MO ($16,369,614.91) $387,467.61 $2,252,545.70
+32898 Aetna, Inc. MO $- $- $7,690.31
+34762 Blue Cross and Blue Shield of Kansas City MO $11,830,633.92 ($296,453.99) ($193,169.87)
+44240 Aetna, Inc. MO $26,201,662.68 $- $-
+44527 Aetna, Inc. MO $38,054,998.21 $- ($283,399.25)
+48161 Aetna, Inc. MO $902,121.89 $- ($165,381.25)
+64701 Federated Mutual MO $- $- ($86,018.29)
+74483 Cigna MO ($55,179,640.61) $- $-
+95426 UnitedHealth Group, Inc. MO $- $- $3,411,247.92
+96384 Cox HealthPlans MO ($4,486,372.84) ($106,785.94) ($2,311,130.13)
+11721 Blue Cross Blue Shield of Mississippi MS ($3,256,377.37) $- $297,010.36
+26781 UnitedHealth Group, Inc. MS $- $- ($101,762.79)
+38420 Federated Mutual MS $- $- $388,021.97
+48963 Humana, Inc. MS $6,306,573.00 $0.00 ($121,751.15)
+61794 UnitedHealth Group, Inc. MS $- $- ($100,970.75)
+90714 Centene Corporation MS ($3,114,444.88) $- $-
+97560 UnitedHealth Group, Inc. MS $64,249.25 $- ($245,314.69)
+98805 UnitedHealth Group, Inc. MS $- $- ($115,232.97)
+23603 PacificSource Health Plans MT ($4,285,653.39) $- ($5,022,612.65)
+30751 Health Care Service Corporation MT $30,794,654.82 ($10,026.79) $5,135,778.09
+32225 Montana Health Cooperative MT ($26,509,001.44) $10,026.79 ($195,493.29)
+46621 UnitedHealth Group, Inc. MT $- $- $82,327.89
+11512 Blue Cross Blue Shield of North Carolina NC $32,023,793.52 ($21,491.14) $20,825,917.17
+24588 Federated Mutual NC $- $- ($874,338.96)
+40411 Cigna NC $1,957,591.49 $- $-
+43283 FirstCarolinaCare Insurance Company NC $- $- ($320,037.63)
+54332 UnitedHealth Group, Inc. NC $754,873.06 $- ($6,813,683.01)
+56346 Aetna, Inc. NC $- $- ($496.55)
+58658 UnitedHealth Group, Inc. NC $- $- ($1,500,782.33)
+61644 Aetna, Inc. NC $- $- ($1,882,911.96)
+61671 Aetna, Inc. NC $501,186.87 $21,491.13 ($829,824.11)
+69347 UnitedHealth Group, Inc. NC $- $- ($8,505,943.13)
+72487 UnitedHealth Group, Inc. NC $- $- ($55,295.84)
+73943 Cigna NC ($35,237,444.92) $- $-
+94459 Aetna, Inc. NC $- $- ($42,603.88)
+37160 Blue Cross Blue Shield of North Dakota ND $2,750,180.76 $42,670.26 $2,043,714.04
+39364 Medica Insurance Company ND $- $- ($637,918.70)
+73751 Medica Insurance Company ND ($1,475,727.34) ($40,724.05) ($86,298.47)
+89364 Sanford Health Plan ND ($1,274,453.42) ($1,946.20) ($1,319,496.88)
+15438 Aetna, Inc. NE $573,062.47 $- $14,624.59
+20305 Medica Insurance Company NE ($2,937,542.90) $190,606.17 $-
+29678 Blue Cross and Blue Shield of Nebraska NE $5,775,059.68 ($113,196.61) ($714,347.89)
+44751 UnitedHealth Group, Inc. NE $213,968.17 $- ($43,093.51)
+44794 Aetna, Inc. NE ($3,624,547.39) ($77,409.57) $265,150.75
+47340 Federated Mutual NE $- $- ($1,319,469.39)
+59699 Aetna, Inc. NE $- $- ($456,978.76)
+73102 UnitedHealth Group, Inc. NE $- $- $1,925,330.62
+79636 Aetna, Inc. NE $- $- $328,783.58
+19304 Maine Community Health Options NH $- $- ($1,293,589.13)
+51889 UnitedHealth Group, Inc. NH $- $- $364,513.29
+57601 Anthem, Inc. NH $- $- $759,048.06
+59025 HPHC Insurance Company, Inc NH $15,811,230.04 $- $118,817.56
+61163 Minuteman Health, Inc. NH ($38,885,008.22) ($223,778.01) ($293,882.39)
+71616 HPHC Insurance Company, Inc NH $- $- $5,080,495.90
+75841 Centene Corporation NH $14,425,154.93 $- $-
+86365 Tufts Associated Health Maintenance Organization Inc. NH $- $- ($3,348,102.95)
+96751 Anthem, Inc. NH $8,648,623.23 $223,778.01 ($1,387,300.35)
+13953 Horizon Blue Cross Blue Shield of New Jersey NJ ($5,937.30) $- $1,115,236.51
+23458 Cigna NJ $- $- $217,002.69
+41014 Cigna NJ $2,587,703.78 $- $3,366.75
+48834 UnitedHealth Group, Inc. NJ $96,093.94 $- ($302,711.61)
+77263 UnitedHealth Group, Inc. NJ $31,378,919.89 $135,262.47 $1,457,595.19
+77606 Independence Blue Cross NJ ($7,033,856.81) $- ($9,703,381.35)
+82884 Aetna, Inc. NJ $- $- ($815,321.12)
+89217 Aetna, Inc. NJ $6,713,943.10 $- $17,195,074.72
+91661 Horizon Blue Cross Blue Shield of New Jersey NJ $3,376,653.92 ($281,401.15) ($6,676,264.86)
+91762 Independence Blue Cross NJ ($37,113,520.52) $146,138.68 ($2,490,596.93)
+19722 Molina Healthcare NM $5,154,966.12 $- $-
+52744 Presbyterian Healthcare Services NM $- $- $672,331.61
+57173 Presbyterian Healthcare Services NM ($738,102.52) $164,082.29 ($4,442,995.57)
+72034 CHRISTUS Health NM ($7,412,563.84) ($81,199.73) $-
+75605 Health Care Service Corporation NM $3,719,974.71 ($14,139.39) $7,701,312.01
+90762 UnitedHealth Group, Inc. NM $- $- $828,620.79
+93091 New Mexico Health Connections NM ($724,274.47) ($68,743.15) ($4,759,268.82)
+16698 Universal Health Services, Inc. NV $5,049,894.84 $- ($555,120.90)
+17255 UnitedHealth Group, Inc. NV ($1,538,805.73) $5,066.24 $-
+19298 Aetna, Inc. NV ($449,129.16) $- ($69,808.57)
+20895 Humana, Inc. NV $- $- $2,000,275.66
+27990 Aetna, Inc. NV $1,028,592.55 $- $781,825.42
+33670 Anthem, Inc. NV ($811,805.88) ($4,120.62) $4,092,200.53
+41094 Hometown Health Plan, Inc. NV ($1,005,757.73) $2,857.02 ($776,624.92)
+42313 WMI Mutual Insurance Company NV $- $- ($21,536.82)
+60156 Anthem, Inc. NV $1,775,925.90 $113,626.18 ($439,987.99)
+68524 Universal Health Services, Inc. NV $- $- ($29,878.10)
+74222 UnitedHealth Group, Inc. NV $- $- $571,308.18
+83198 UnitedHealth Group, Inc. NV $13,134,965.71 ($69,448.78) $4,088,798.50
+85266 Hometown Health Plan, Inc. NV $1,217,613.00 ($16,510.04) ($3,351,456.33)
+93696 Humana, Inc. NV $- $- $24,841.71
+95865 UnitedHealth Group, Inc. NV ($18,401,493.55) ($31,470.00) ($6,314,836.45)
+11177 Metro Plus Health Plan NY ($93,963.43) ($731.81) ($2,523,089.40)
+17210 Aetna, Inc. NY $330,071.16 $- ($24,893,594.73)
+18029 Independent Health NY $9,001,518.14 ($42,353.33) $2,789,569.19
+25303 New York State Catholic Health Plan, Inc. NY ($81,563,239.04) ($85,536.71) $-
+26420 UnitedHealth Group, Inc. NY $366,868.25 $- ($15,650,018.65)
+36346 HealthNow New York, Inc. NY $1,667,941.42 $- ($3,910,003.77)
+43477 Crystal Run Health Plans NY $- $- ($3,430,021.04)
+44113 Anthem, Inc. NY $- $- ($8,047,316.48)
+49526 HealthNow New York, Inc. NY $10,313,147.92 $- $12,255,694.66
+54235 UnitedHealth Group, Inc. NY $11,564,845.25 $199,663.52 $-
+54297 UnitedHealth Group, Inc. NY $- $- ($685,924.84)
+56184 MVP Health Plan, Inc. NY $12,670,674.56 $223,803.66 ($2,573,281.38)
+57165 Affinity Health Plan, Inc. NY $1,151,605.10 ($9,942.53) $-
+61405 Healthfirst NY ($72,760.48) $- ($1,609,973.24)
+70552 Independent Health NY $- $- ($220,552.47)
+73886 Crystal Run Health Plans NY $257,831.35 $46,665.13 ($2,467,863.91)
+74289 Oscar Health NY ($42,400,604.40) ($2,477,880.22) ($2,693,856.05)
+78124 Excellus Health Plan, Inc. NY $29,786,084.65 $235,601.88 ($38,167,966.89)
+80519 Anthem, Inc. NY $59,580,758.32 $1,166,490.23 ($953,457.67)
+82483 North Shore-LIJ Health System NY ($5,402,165.00) $264,371.72 ($115,673,281.81)
+85629 UnitedHealth Group, Inc. NY $- $- $216,646,628.89
+88000 EmblemHealth NY $2,315,921.67 $- $-
+88582 EmblemHealth NY $3,460,324.39 $382,217.72 ($16,953,145.40)
+89846 MVP Health Plan, Inc. NY $- $- ($6,415,625.80)
+91237 Healthfirst NY ($21,672,891.16) $53,338.35 $-
+92551 CDPHP Universal Benefits, Inc. NY $- $- $18,455,306.91
+94788 CDPHP Universal Benefits, Inc. NY $8,738,031.21 $44,292.37 ($3,278,226.08)
+23340 Medical Mutual of Ohio OH ($1,559,070.25) $- $-
+26734 Premier Health Plan, Inc. OH $832,327.96 $- $-
+28162 AultCare Insurance Company OH $1,990,967.55 $189,196.19 ($3,118,584.54)
+29276 Anthem, Inc. OH $28,243,218.13 ($295,516.66) $10,008,430.38
+33232 UnitedHealth Group, Inc. OH $- $- ($2,513,809.68)
+41047 Centene Corporation OH ($12,855,020.92) $- $-
+52664 Summa Insurance Company OH ($1,032,792.61) $70,520.24 $2,334,600.30
+56073 Nippon Life Benefits OH $- $- ($153,447.55)
+56726 UnitedHealth Group, Inc. OH $- $- $269,433.07
+61724 UnitedHealth Group, Inc. OH $2,162.05 $- ($8,829,403.93)
+64353 Molina Healthcare OH $583,153.97 $- $-
+66083 Humana, Inc. OH $1,093,725.07 ($100,862.83) ($4,615,446.20)
+67129 Aetna, Inc. OH ($214,115.68) $- $2,799,635.03
+74313 Paramount Insurance Company OH ($3,185,766.61) $- ($1,828,122.77)
+77552 CareSource OH ($11,275,315.32) $- $-
+80627 Medical Mutual of Ohio OH $4,294,065.62 $- $4,284,125.78
+83396 The Health Plan of the Upper Ohio Valley OH ($130,108.37) $- ($263,052.24)
+84867 Aetna, Inc. OH $- $- $1,146,032.43
+96800 Federated Mutual OH $- $- $867,188.44
+97596 Humana, Inc. OH $- $- ($259,546.93)
+98810 The Health Plan of the Upper Ohio Valley OH $- $- ($114,480.88)
+99969 Medical Mutual of Ohio OH ($6,787,430.79) $136,663.04 ($13,550.70)
+27243 Federated Mutual OK $- $- ($698,392.63)
+45480 UnitedHealth Group, Inc. OK $37,146.38 $- ($728,410.36)
+66946 Aetna, Inc. OK $- $- $648,062.09
+76275 Aetna, Inc. OK $- $- ($70,529.35)
+85757 UnitedHealth Group, Inc. OK $- $- ($1,601,671.72)
+87571 Health Care Service Corporation OK $2,803,057.22 $184,776.81 $13,223,428.85
+87698 CommunityCare OK ($64,916.06) $- ($584,470.82)
+98905 CommunityCare OK ($2,775,287.55) ($184,776.82) ($10,188,016.10)
+10091 PacificSource Health Plans OR ($306,876.25) $68,966.56 ($590,613.51)
+10940 Centene Corporation OR $945,876.89 $- $1,411,965.85 
+30969 Zoom Health Plan, Inc. OR ($1,043,963.24) $- ($47,429.53)
+32536 ATRIO Health Plans OR ($498,639.20) $- ($114,168.93)
+33375 Samaritan Health Plans OR $- $- ($263,003.04)
+39424 Moda Health Plan, Inc. OR $40,962,083.97 $- $2,003,095.16
+56707 Providence Health & Services OR ($26,788,624.85) $- ($5,056,044.70)
+63474 Cambia Health Solutions OR $5,641,571.97 $- $-
+71287 Kaiser Permanente OR ($22,640,214.21) ($68,966.56) ($2,666,857.84)
+77969 Cambia Health Solutions OR $3,728,784.96 $- $4,319,033.74
+85804 Premera Blue Cross OR $- $- ($309,202.59)
+90175 UnitedHealth Group, Inc. OR $- $- $1,313,225.62
+16322 UPMC Health Plan PA ($40,050,668.48) ($245,097.73) $14,426,473.48
+18939 Aetna, Inc. PA $- $- $2,311,667.27
+22444 Geisinger Health System PA ($13,135,095.92) $98,741.81 ($3,011,309.33)
+23489 UnitedHealth Group, Inc. PA $- $- ($3,796,481.64)
+31609 Independence Blue Cross PA $54,047,462.13 $68,085.16 $23,633,710.00
+33709 Highmark PA $11,504,376.97 ($56,425.98) $3,076,954.64
+33871 Independence Blue Cross PA ($66,630,300.85) $- ($26,864,029.70)
+33906 Aetna, Inc. PA $- $- ($690,056.70)
+36247 Highmark PA $148,509.80 $2,681.50 $-
+38949 Highmark PA $644,235.37 $- ($6,441.92)
+45127 Capital Blue Cross PA $40,434,004.32 $- ($8,577,374.68)
+53789 Capital Blue Cross PA ($5,866,130.41) $132,015.20 ($35,498.14)
+55957 Highmark PA $1,201,208.49 $- $3,813,377.42
+62560 UPMC Health Plan PA ($5,886.15) $- ($787,776.06)
+64844 Aetna, Inc. PA ($1,378,243.73) $- ($572,086.93)
+70194 Highmark PA $29,655,144.26 $- ($490,971.88)
+75729 Geisinger Health System PA $541,607.30 $- ($1,756,898.95)
+79279 Highmark PA $- $- $810,774.18
+79962 Highmark PA $- $- $337,505.66
+80148 Federated Mutual PA $- $- ($1,134,407.04)
+82795 Capital Blue Cross PA ($567,694.83) $- ($244,449.07)
+83731 Highmark PA ($10,542,528.19) $- $-
+93838 Aetna, Inc. PA $- $- ($442,680.89)
+15287 Blue Cross Blue Shield of Rhode Island RI $7,559,388.24 $- $3,559,663.89
+26322 Tufts Associated Health Maintenance Organization Inc. RI $- $- $278,234.36
+77514 Neighborhood Health Plan of Rhode Island RI ($7,559,388.24) $- ($1,074,790.09)
+79881 UnitedHealth Group, Inc. RI $- $- ($1,468,832.70)
+90010 Tufts Associated Health Maintenance Organization Inc. RI $- $- ($1,502,319.69)
+90117 UnitedHealth Group, Inc. RI $- $- $208,044.26
+22369 Aetna, Inc. SC $- $- ($46,085.53)
+26065 BlueChoice HealthPlan of South Carolina, Inc. SC $14,592,529.77 $155,325.74 $118,981.64
+33609 Federated Mutual SC $- $- $481,646.67
+38408 Aetna, Inc. SC $105,711.19 $- $601,211.28
+49532 BlueChoice HealthPlan of South Carolina, Inc. SC ($15,792,089.83) ($155,325.75) ($2,819,874.07)
+54362 Cigna SC $1,093,848.73 $- $-
+56262 Aetna, Inc. SC $- $- ($8,127.82)
+57860 UnitedHealth Group, Inc. SC $- $- $1,559,813.53
+64146 UnitedHealth Group, Inc. SC $- $- $112,434.18
+31195 Sanford Health Plan SD $4,000,082.85 $101,329.31 $1,512,973.27
+50305 Wellmark, Inc. SD $- $- ($613,210.39)
+60536 Avera Health Plans, Inc. SD ($4,000,082.83) ($101,329.32) $612,558.50
+62210 DAKOTACARE SD $- $- ($2,184,194.55)
+64255 Federated Mutual SD $- $- $688,173.51
+96594 Medica Insurance Company SD $- $- ($16,300.37)
+10958 UnitedHealth Group, Inc. TN $- $- ($4,929,876.45)
+14002 BlueCross BlueShield of Tennessee TN $66,286,360.53 $- $4,087,116.16
+16348 TRH Health Insurance Company TN $1,916,790.86 ($362,534.51) $-
+31552 Aetna, Inc. TN $954,059.54 $- $785,422.50
+69443 UnitedHealth Group, Inc. TN $200,952.91 $3,048.60 $1,516,088.98
+82120 Humana, Inc. TN $1,862,944.11 $359,485.91 ($981,121.25)
+83463 Federated Mutual TN $- $- ($477,630.04)
+99248 Cigna TN ($71,221,107.95) $- $-
+19046 Federated Mutual TX $- $- ($744,994.75)
+20069 Oscar Health TX ($19,629,491.14) ($605,086.40) $-
+26539 FirstCare Health Plans TX $12,563,028.01 $- ($2,819,555.63)
+27248 Community Health Choice, Inc. TX ($60,032,007.00) $- $-
+29418 Centene Corporation TX ($116,928,545.46) $- $-
+30609 Memorial Hermann Health Plan TX $1,899,815.09 $- ($311,435.09)
+32673 Humana, Inc. TX $18,802,128.77 ($170,401.72) ($15,674,526.26)
+33602 Health Care Service Corporation TX $390,674,339.27 $546,164.31 $33,259,053.53
+37392 Universal Health Services, Inc. TX ($1,222,754.85) $- ($72,628.80)
+37755 Scott & White Health Plan TX $18,551,464.35 $- ($1,430,111.18)
+40220 UnitedHealth Group, Inc. TX $- $- ($6,215,486.23)
+40788 Scott & White Health Plan TX $3,345,705.79 $- ($5,042,519.55)
+41541 Memorial Hermann Health Plan TX ($4,450,448.39) $- ($4,715,315.48)
+41549 FirstCare Health Plans TX $- $- $605,495.00
+45786 Molina Healthcare TX ($222,476,619.38) $- $-
+53799 US Health Group TX $231,385.89 $- $-
+55409 Cigna TX $20,430,511.49 $- $-
+58840 Aetna, Inc. TX $- $- ($111,217.24)
+63141 Humana, Inc. TX $337,154.48 $- $2,109,414.43
+66252 CHRISTUS Health TX ($135,500.48) $229,323.80 $-
+71837 Sendero Health Plans, Inc. TX ($47,522,188.86) $- $-
+76589 Cigna TX $1,631,045.86 $- $-
+81795 Arkansas Blue Cross and Blue Shield TX $- $- ($832,423.12)
+84479 Vista Health Plan, Inc. TX ($4,185,210.21) $- ($128,477.28)
+91716 Aetna, Inc. TX $8,116,186.67 $- $5,071,449.95
+98809 UnitedHealth Group, Inc. TX $- $- ($2,946,722.44)
+18167 Molina Healthcare UT ($38,365,114.25) $- $-
+22013 Cambia Health Solutions UT $11,172,822.02 $- $3,870,922.81
+29031 National Health Insurance Company UT $- $- ($74,294.23)
+34541 Cambia Health Solutions UT $72,747.01 $- $-
+38927 Aetna, Inc. UT $397,572.17 $- $217,841.39
+42261 University of Utah Health Insurance Plans UT $12,948,787.52 $- $-
+43129 UnitedHealth Group, Inc. UT $266,955.52 $2,763.83 $-
+46958 Humana, Inc. UT $- $- $163,456.94
+48588 Aetna, Inc. UT $- $- ($83,041.19)
+66413 UnitedHealth Group, Inc. UT $- $- ($864,688.72)
+68781 SelectHealth UT $13,506,230.05 ($2,763.83) ($2,356,545.20)
+80043 WMI Mutual Insurance Company UT $- $- $206,488.13
+97462 UnitedHealth Group, Inc. UT $- $- ($1,080,139.96)
+10207 CareFirst VA $8,481,827.84 ($229,982.09) ($4,366,772.65)
+12028 Aetna, Inc. VA ($44,035,900.26) ($153,979.49) ($880,771.28)
+13433 Federated Mutual VA $- $- $1,095,131.58
+15668 Piedmont Community Health Plan VA $2,370,193.10 ($17,466.39) ($278,384.93)
+16064 Anthem, Inc. VA $- $- $29,718,722.06
+20507 Optima Health VA $52,883,879.67 $- $1,366,648.47
+24251 UnitedHealth Group, Inc. VA $- $- ($1,164,298.16)
+25978 UnitedHealth Group, Inc. VA $- $- ($15,882,113.33)
+37204 Piedmont Community Health Plan VA ($2,168,146.38) $190,704.53 $14,704.38 
+38234 Aetna, Inc. VA $53,038.15 $- ($4,630,850.39)
+38599 UnitedHealth Group, Inc. VA ($2,463,314.17) $- ($409,229.55)
+40308 CareFirst VA $22,761,701.54 $- $6,845,846.25
+41892 UnitedHealth Group, Inc. VA ($118,297.08) ($4,188.89) $-
+41921 Cigna VA ($27,486,733.28) $- $-
+86443 Aetna, Inc. VA $- $- ($5,284,239.31)
+88380 Anthem, Inc. VA $7,182,377.15 $850,406.29 ($1,168,438.09)
+89242 Optima Health VA $- $- $2,231,078.26
+89498 UnitedHealth Group, Inc. VA $- $- ($681,832.69)
+93187 Aetna, Inc. VA $19,062,903.87 ($134,922.39) ($319,335.77)
+95185 Kaiser Permanente VA ($36,523,530.11) ($500,571.55) ($6,205,864.80)
+18581 Community Health Plan of Washington WA $2,779,989.83 $- $-
+18699 UnitedHealth Group, Inc. WA $- $- ($1,438,898.34)
+23371 Kaiser Permanente WA ($6,824,739.36) ($21,035.24) $275,729.11
+25768 Kaiser Permanente WA $5,453,365.74 $- ($6,706,193.20)
+34673 Aetna, Inc. WA $- $- $1,131,688.41
+36026 Centene Corporation WA $- $- ($548,464.31)
+38229 Health Alliance Medical Plans, Inc. WA $12,593.61 $- $-
+38498 Premera Blue Cross WA ($7,097,575.96) $- $-
+43861 UnitedHealth Group, Inc. WA $50,200.73 $- ($220,209.58)
+49831 Premera Blue Cross WA $28,293,767.22 $- ($644,749.68)
+53732 Cambia Health Solutions WA $4,394,628.82 $- $-
+61836 Centene Corporation WA ($32,733,328.75) $- $-
+69364 Cambia Health Solutions WA $3,684,375.67 $- $1,720,636.06
+71281 Cambia Health Solutions WA $3,592,257.89 $- $2,163,889.80
+80473 Kaiser Permanente WA ($49,034,125.60) $21,035.25 ($8,754,028.28)
+84481 Molina Healthcare WA ($1,116,871.00) $- $-
+87718 Cambia Health Solutions WA $48,545,461.30 $- $13,020,600.03
+14630 Children's Community Health Plan WI $5,304,975.21 $- $-
+16245 Group Health Cooperative of Eau Claire WI $- $- ($1,239,388.66)
+20173 HealthPartners Insurance Company WI ($2,249,707.06) ($6,841.59) $227,450.53
+35334 MercyCare Insurance Company WI $- $- ($81,685.94)
+37833 Quartz Health Solutions WI $18,218,032.49 ($39,129.01) $1,865,999.48
+38166 Security Health Plan of Wisconsin, Inc. WI ($12,010,107.04) $295,788.25 ($2,511,457.29)
+38345 Dean Health Plan, Inc. WI ($28,126,200.27) ($351,306.72) ($5,173,583.17)
+38752 Aetna, Inc. WI $- $- $107,001.11
+39924 UnitedHealth Group, Inc. WI $79,772.76 $- $214,826.18
+47342 Mayo Clinic Health System WI ($8,912,149.17) $18,880.18 ($2,118,411.54)
+52697 Molina Healthcare WI $273,647.15 $- $-
+55103 Humana, Inc. WI $- $- ($1,529,425.10)
+57637 Medica Insurance Company WI $- $- ($1,520,111.28)
+57845 Medica Insurance Company WI $2,621,416.11 $212,870.25 $-
+58326 MercyCare Insurance Company WI ($5,487,189.38) $- ($508,151.26)
+58564 Quartz Health Solutions WI $383,811.56 ($14,589.90) ($459,204.39)
+59158 UnitedHealth Group, Inc. WI $- $- $13,431,753.56
+64772 Medical Associates Health Plans WI $- $- $36,879.48
+69424 Pekin Life Insurance Company WI $- $- ($9,309.07)
+79475 Anthem, Inc. WI $10,173,169.63 ($144,042.04) $2,748,145.84
+80180 UnitedHealth Group, Inc. WI $- $- ($629,373.19)
+81413 Network Health Plan WI $18,489,433.27 $- $92,947.34
+81974 Wisconsin Physicians Svc Insurance Corp WI $1,865,873.23 ($12,145.47) $4,710,915.04
+84670 Wisconsin Physicians Svc Insurance Corp WI $1,019,628.73 $124,623.45 ($1,760,934.64)
+86584 Wisconsin Physicians Svc Insurance Corp WI ($7,945,062.24) ($53,717.21) ($760,833.45)
+87416 Common Ground Healthcare Cooperative WI $76,217.13 $583.10 ($1,227,873.58)
+90028 Anthem, Inc. WI $- $- ($271,658.90)
+91058 Quartz Health Solutions WI $3,179,091.75 ($21,874.57) ($4,613,827.70)
+91604 Humana, Inc. WI $2,752.07 $- ($127,138.18)
+92708 Federated Mutual WI $- $- $766,361.14
+94529 Group Health Cooperative of South Central Wisconsin WI $3,042,594.06 ($9,098.74) $340,087.80
+14414 Federated Mutual WV $- $- ($52,357.99)
+31274 Highmark WV $9,416,972.44 $0.00 $1,295,933.51
+44434 Aetna, Inc. WV ($240,460.81) $- $68,744.42
+50318 Aetna, Inc. WV $- $- ($571,666.67)
+50328 CareSource WV ($8,801,964.64) $- $-
+59772 The Health Plan of the Upper Ohio Valley WV $- $- ($614,364.72)
+72982 The Health Plan of the Upper Ohio Valley WV ($374,546.95) $- $165,210.86
+77060 UnitedHealth Group, Inc. WV $- $- ($50,782.51)
+95628 UnitedHealth Group, Inc. WV $- $- ($240,716.99)
+11269 Blue Cross Blue Shield of Wyoming WY $0.00 $0.00 ($623,916.29)
+44325 Aetna, Inc. WY $- $- $244,027.31 
+49714 UnitedHealth Group, Inc. WY $- $- $308,081.87
+79022 Aetna, Inc. WY $- $- $71,807.08
