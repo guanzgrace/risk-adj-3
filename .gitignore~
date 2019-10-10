@@ -1,2 +1,4 @@
-2017RawData/*
-.ipynb-checkpoints/*
+2017RawData
+*/2017RawData/*
+.ipynb-checkpoints
+*/.ipynb_checkpoints/*
